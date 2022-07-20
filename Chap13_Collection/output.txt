@@ -1,0 +1,6 @@
+#Properties Example
+#Thu Apr 21 11:58:05 KST 2022
+wifi=true
+sound=JingleBell
+language=ko
+timeout=30
